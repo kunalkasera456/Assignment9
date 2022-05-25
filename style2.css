@@ -1,0 +1,123 @@
+*{
+    padding: 0%;
+    padding: 0%;
+    box-sizing: border-box;
+}
+/* header */
+.container0{
+    display: flex;
+    background-color: brown;
+    position: fixed;
+    width: 1500px;
+}
+.item1,.item2{
+    color: white;
+    border: 0px solid black;
+    
+
+}
+.item1{
+    flex:3;
+    padding-left: 30px;
+}
+.item2{
+flex:1;
+padding: 40px;
+
+}
+/* header{
+    background-color: brown;
+    color: white;
+    
+    
+}
+.navbar ul{
+    overflow :auto;
+} */
+/*===================== header================= */
+main
+.full{
+    border: solid 1px brown;
+    background-color: brown;
+    color: white;
+    text-align: center;
+    padding-top: 100px;
+}
+.container{
+    display: flex;
+   
+    padding: 15px;
+    /* width: 80%;
+    margin: 30px auto; */
+
+}
+/* .para{
+    border: 2px solid none;
+    padding: 12px 3px;
+    margin: 12px 3px;
+}
+#para1{
+    float: left;
+    width: 30%;
+}
+#para2{
+    float: left;
+    width: 30%;
+}
+#para3{
+    float: left;
+    width: 30%;
+}
+h3{
+    color: brown;
+} */
+div>a{
+    background-color: brown;
+    color: white;
+    text-decoration: none;
+    width: 20px;
+    padding: 7px;
+}
+.container2{
+    border: 2px solid brown;
+    color: white;
+    background-color: brown;
+    text-align: center;
+
+}
+.image{
+    display: flex;
+    justify-content: space-around;
+    border: 2px solid white;
+    padding: 5px;
+}
+.container3{
+    color: brown;
+    text-align: center;
+}
+.senery{
+    /* border: 1px solid black; */
+    width: 600px;
+    display: inline-block;
+    margin: auto 30px;
+}
+footer{
+    background-color: brown;
+    color: white;
+    height: 50px;
+    display:flex;
+    justify-content: space-around;
+    width: 1350px;
+    padding: 15px;
+    margin: 20px;
+}
+a:link{
+    color: white;
+    font-weight: 800;
+    text-decoration: none;
+}
+a:hover{
+    color: blue;
+    background-color: transparent;
+    text-decoration: underline;
+}
